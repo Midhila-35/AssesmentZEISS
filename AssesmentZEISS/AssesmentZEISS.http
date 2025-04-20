@@ -1,0 +1,6 @@
+@AssesmentZEISS_HostAddress = http://localhost:5250
+
+GET {{AssesmentZEISS_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
